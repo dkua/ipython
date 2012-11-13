@@ -226,7 +226,7 @@ div.out_prompt_overlay:hover {
 div.output_prompt {
     color: darkred;
     /* 5px right shift to account for margin in parent container */
-    margin: 0 50px 0 -50px;
+    margin: 0 5px 0 -5px;
 }
 
 /* This class is the outer container of all output sections. */
